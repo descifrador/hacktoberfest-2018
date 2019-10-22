@@ -12,7 +12,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/my-first-pr/hacktoberfest-2018.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/my-first-pr/hacktoberfest-2018.svg)
 
-This repository is for anyone to create pull requests during Hacktoberfest 2018, with their name, code samples, etc. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
+This repository is for anyone to create pull requests during Hacktoberfest 2019, with their name, code samples, etc. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 ![My First PR: Hacktoberfest](https://my-first-pr.github.io/assets/images/undraw_fall_is_coming_dg3x.svg)
 ![Hacktoberfest 2018](https://my-first-pr.github.io/assets/images/Hacktoberfest_2018_logo_lockup.png)
@@ -42,7 +42,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ## Reference Links
 How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
-- Go to : https://hacktoberfest.digitalocean.com/stats/ (Scroll down to Check Out Your Own Stats)
+- Go to : https://hacktoberfest.digitalocean.com/profile (Scroll down to Check Out Your Own Stats)
 
 ## Contributors List
 
